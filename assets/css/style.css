@@ -1,0 +1,50 @@
+img.icon {
+    width: 25px;
+}
+
+ul.navbar-item {
+    display: flex;
+}
+
+.dropdown {
+    position: relative;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+#Notify {
+    position: relative;
+    font-size: 25px;
+    color: #9999;
+    padding: 6px 0px;
+}
+p.count {
+    position: absolute;
+    color: var(--white-color);
+    font-size: 13px;
+    height: 15px;
+    width: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 50%;
+    border-radius: 50%;
+    top: -2px;
+    left: 14px;
+}
+.logo {
+    width: 250px;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: var(--white-color);
+    background: var(--main-gradient);
+    padding: 10px;
+}
+
+a.sidebarCollapse {
+    font-size: 20px;
+    color: var(--);
+    color: var(--second-color);
+    padding-left: 10px;
+}
